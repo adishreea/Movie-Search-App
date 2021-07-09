@@ -2,5 +2,5 @@
 A web application that lets you search through its database using TMDB API.
 
 
-Frameworks used:
-EJS, Express, Request
+babel appsrc.js --out-file=app.js --presets=env,react --watch
+live-server
